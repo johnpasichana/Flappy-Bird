@@ -1,6 +1,8 @@
 var gameWidth = window.innerWidth;
 var gameHeight = window.innerHeight;
 
+// This is a proof
+
 var config = {
     type: Phaser.AUTO,
     width: gameWidth,
